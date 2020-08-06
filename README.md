@@ -20,4 +20,5 @@
 ## ss-local 教程
 [ss-local + privoxy 实现 shell 终端代理](https://www.zfl9.com/ss-local.html)
 
-- 2017-07-21 by Otokaze
+配置安装
+https://www.xiaobaibk.com/xiao-bai-395.html
